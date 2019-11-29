@@ -613,7 +613,7 @@
                                 </p>
                                 <p>
                                     <font face="Arial" size="2">
-                                        To get a copy of the QWS dataset, please click <a href="https://github.com/qwsdata/qwsdataset/blob/master/qwsdataset.txt">here</a>.
+                                        To get a copy of the QWS dataset, please click send an email to qwsdata[AT]yahoo.com.
                                     </font>
                             </td>
                         </tr>
