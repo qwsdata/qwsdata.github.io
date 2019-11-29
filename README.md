@@ -253,10 +253,19 @@
                             <tr>
                                 <td colspan="2">
                                     <ul>
-                                        <li><span style="font-size: 18px;">Artificial Neural Network (ANN) for using the Service Classification as input to the network (identify high quality Web services)</span></li>
-                                        <li><span style="font-size: 18px;">Web service status: determine using QWS dataset an overview of the existing status of Web services that exist on the Web today.</span></li>
+                                        <li><span style="font-size: 18px;">Web Service Classification</span></li>
                                         <li><span style="font-size: 18px;">Web Service Composition</span></li>
-                                        <li><span style="font-size: 18px;">Web Service QoS Performance and Prediction</span></li>
+                                        <li><span style="font-size: 18px;">Web Service QoS Performance&nbsp;</span></li>
+                                        <li><span style="font-size: 18px;">Web Service QoS Prediction</span></li>
+                                        <li><span style="font-size: 18px;">Web Service Ranking</span></li>
+                                        <li><span style="font-size: 18px;">Web services Discovery</span></li>
+                                        <li><span style="font-size: 18px;">Web services Modeling</span></li>
+                                        <li><span style="font-size: 18px;">Web Services&#39; Resource Management</span></li>
+                                        <li><span style="font-size: 18px;">Web Service Coordination</span></li>
+                                        <li><span style="font-size: 18px;">Service Orientated Analysis</span></li>
+                                        <li><span style="font-size: 18px;">Web Service Transaction</span></li>
+                                        <li><span style="font-size: 18px;">Business process Integration and Management</span></li>
+                                        <li><span style="font-size: 18px;">Web Service Recommender System</span><br><br></li>
                                     </ul>
                                 </td>
                             </tr>
