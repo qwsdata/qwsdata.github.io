@@ -237,6 +237,7 @@
                                 <td colspan="2">The QWS dataset is available free of charge for educational and non-commercial purposes. In exchange, we kindly request that you make available to us the results of running the QWS dataset. Please use the following references
                                     in citing the dataset:
                                     <ul>
+                                        <li>Al-Masri, E., and Mahmoud Q. H., &quot;Investigating web services on the world wide web&quot;, 17th international conference on World Wide Web (WWW &#39;08), ACM, pp.795-804.</li>
                                         <li>Al-Masri, E., and Mahmoud, Q. H., &quot;Discovering the best web service&quot;, (poster) 16th International Conference on World Wide Web (WWW), 2007, pp. 1257-1258.</li>
                                         <li>Al-Masri, E., and Mahmoud, Q. H., &quot;QoS-based Discovery and Ranking of Web Services&quot;, IEEE 16th International Conference on Computer Communications and Networks (ICCCN), 2007, pp. 529-534.</li>
                                     </ul>
