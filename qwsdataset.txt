@@ -1,67 +1,35 @@
 ##########################################################################
-
 ## Developed/Maintained by: Eyhab Al-Masri (ealmasri[AT]uoguelph.ca) 	##
-
 ## Developed by: Eyhab Al-Masri (ealmasri[AT]uoguelph.ca) 	        ##
-
 ## This dataset is considered one of the first datasets released in the ##
-
 ## area of web services and services computing and has been widely      ##
-
 ## adopted by the research community in the area of Web Services.       ##
-
 ## I would like to thank all of those who have supported the adoption,  ##
-
-##  usage and maintanance of this dataset.                              ##
-
+## usage and maintanance of this dataset.                               ##
 ##########################################################################
-
 ## This dataset represents 2507 real Web services that exist on the Web	##
-
 ## Please feel free to contact me if you have any questions.            ##
-
 ## Last update: Nov, 2019   					        ##
-
 ## Last update: June, 5, 2008						##
-
 ##########################################################################
-
 ## Please cite the following paper when using this dataset:		##
-
 ## E. Al-Masri, Q. Mahmoud, "Investigating web services on the world 	##
-
 ## wide web," 17th international conference on World Wide Web (WWW '08)	##
-
 ## ACM, pp. 795-804. DOI: https://doi.org/10.1145/1367497.1367605	##
-
 ## More details on dataset: doi: 10.1109/ICCCN.2007.4317873		##
-
 ##########################################################################
-
 ## Format: QWS parameters are separated by commas (first nine)		##
-
 ## Format: (1) Response Time						##
-
 ## Format: (2) Availability						##
-
 ## Format: (3) Throughput						##
-
 ## Format: (4) Successability						##
-
 ## Format: (5) Reliability						##
-
 ## Format: (6) Compliance						##
-
 ## Format: (7) Best Practices						##
-
 ## Format: (8) Latency							##
-
 ## Format: (9) Documentation						##
-
 ## Format: (10) Service Name						##
-
 ## Format: (11) WSDL Address						##
-
 ##########################################################################
 302.75,89,7.1,90,73,78,80,187.75,32,MAPPMatching,http://xml.assessment.com/service/MAPPMatching.asmx?wsdl
 482,85,16,95,73,100,84,1,2,Compound2,http://www.mssoapinterop.org/asmx/WSDL/compound2.wsdl
