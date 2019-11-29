@@ -1,3 +1,6 @@
+<head>
+    <meta name="google-site-verification" content="bJP4rYZbQcgkfh_VQxkh10ZH58Ir3wy2AqT-3y1mexQ" />
+</head>
 <div>
     <table bgcolor="#FFFFFF" border="1" cellpadding="5" cellspacing="0" width="800">
         <tbody>
@@ -288,4 +291,3 @@
 </div>
 <p><span style="font-size: 18px;"><br></span></p>
 
-<meta name="google-site-verification" content="bJP4rYZbQcgkfh_VQxkh10ZH58Ir3wy2AqT-3y1mexQ" />
