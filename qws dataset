@@ -255,6 +255,8 @@
                                     <ul>
                                         <li><span style="font-size: 18px;">Artificial Neural Network (ANN) for using the Service Classification as input to the network (identify high quality Web services)</span></li>
                                         <li><span style="font-size: 18px;">Web service status: determine using QWS dataset an overview of the existing status of Web services that exist on the Web today.</span></li>
+                                        <li><span style="font-size: 18px;">Web Service Composition</span></li>
+                                        <li><span style="font-size: 18px;">Web Service QoS Performance and Prediction</span></li>
                                     </ul>
                                 </td>
                             </tr>
