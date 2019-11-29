@@ -87,17 +87,20 @@
                                     <font size="2" face="Arial">
                                         The main goal
                                         of this dataset is to offer a basis for Web Service researchers. To this end, this dataset contains 2507
-                                        web services and their QoS measurements. The services were collected using my</font>
-                                        <font size="2" face="Arial" color="#FFFFFF"><a href="http://www2007.org/poster968.php">Web Service Crawler Engine (WSCE)</a>. 
-                                        </font><font size="2" face="Arial">
+                                        web services and their QoS measurements. The services were collected using my
+                                    </font>
+                                    <font size="2" face="Arial" color="#FFFFFF">
+                                        <a href="http://www2007.org/poster968.php">Web Service Crawler Engine (WSCE)</a>.
+                                    </font><font size="2" face="Arial">
                                         The majority of Web services were obtained from public sources on the Web including Universal Description,
-                                        Discovery, and Integration (UDDI) registries, search engines, and service portals. The QWS Dataset includes 
-                                        a set of 2,507 Web services and their <a href="#Quality_of_Web_Service_(QWS)_">Quality of Web Service (QWS)</a> 
-                                        measurements that were conducted during the year of 2008 using our Web Service Broker (WSB) framework. 
-                                        Each row in this dataset represents a Web service and its corresponding nine QWS measurements (separated by commas). 
-                                        The first nine elements are QWS metrics that were measured using multiple Web service benchmark tools over a six-day period. 
-                                        The QWS values represent averages of the measurements collected during that period. 
-                                        The last two parameters represent the service name and reference to the WSDL document.</font>
+                                        Discovery, and Integration (UDDI) registries, search engines, and service portals. The QWS Dataset includes
+                                        a set of 2,507 Web services and their <a href="#Quality_of_Web_Service_(QWS)_">Quality of Web Service (QWS)</a>
+                                        measurements that were conducted during the year of 2008 using our Web Service Broker (WSB) framework.
+                                        Each row in this dataset represents a Web service and its corresponding nine QWS measurements (separated by commas).
+                                        The first nine elements are QWS metrics that were measured using multiple Web service benchmark tools over a six-day period.
+                                        The QWS values represent averages of the measurements collected during that period.
+                                        The last two parameters represent the service name and reference to the WSDL document.
+                                    </font>
                             </td>
                         </tr>
                         <tr>
@@ -610,7 +613,7 @@
                                 </p>
                                 <p>
                                     <font face="Arial" size="2">
-                                        To get a copy of the QWS dataset, please click here. 
+                                        To get a copy of the QWS dataset, please click <a href="https://github.com/qwsdata/qwsdataset/blob/master/qwsdataset.txt">here</a>.
                                     </font>
                             </td>
                         </tr>
@@ -667,7 +670,7 @@
                             <td colspan="2">
                                 <font face="Arial" size="2">
                                     Your comments and suggestions are welcome. Please send your comments by
-                                    email: Eyhab Al-Masri (qwsdata[AT]yahoo.com) 
+                                    email: Eyhab Al-Masri (qwsdata[AT]yahoo.com)
                                 </font>
                             </td>
                         </tr>
@@ -681,8 +684,7 @@
                                         <font face="Arial" size="1">
                                             <font color="#FFFFFF">
                                                 <br>
-                                                This page is maintained by Eyhab Al-Masri (
-                                            </font><a href="mailto:ealmasri@uoguelph.ca"><font color="#FFFFFF">ealmasri[AT]uoguelph.ca</font></a><font color="#FFFFFF">
+                                                This page is maintained by Eyhab Al-Masri (</font><a href="mailto:qwsdata@yahoo.com"><font color="#FFFFFF">qwsdata[AT]yahoo.com</font></a><font color="#FFFFFF">
                                                 )
                                                 Last modified November 2019.<br>
                                                 &nbsp;
