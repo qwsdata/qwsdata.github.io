@@ -4,7 +4,7 @@
 ## This dataset represents 2507 real Web services that exist on the Web	##
 ## This dataset has been widely adopted by the research community in    ##
 ## the area of Web Services. I thank all of those who have supported    ##
-## the adoption, usage and maintanance of this dataset.                ##
+## the adoption, usage and maintanance of this dataset.                 ##
 ## Please feel free to contact me if you have any questions.            ##
 ## Last update: Nov, 2019   					        ##
 ##########################################################################
