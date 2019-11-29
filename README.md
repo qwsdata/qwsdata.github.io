@@ -684,7 +684,7 @@
                                         <font face="Arial" size="1">
                                             <font color="#FFFFFF">
                                                 <br>
-                                                This page is maintained by Eyhab Al-Masri (</font><a href="mailto:qwsdata@yahoo.com"><font color="#FFFFFF">qwsdata[AT]yahoo.com</font></a><font color="#FFFFFF">
+                                                This page is maintained by Eyhab Al-Masri (</font><font color="#FFFFFF">qwsdata[AT]yahoo.com</font><font color="#FFFFFF">
                                                 )
                                                 Last modified November 2019.<br>
                                                 &nbsp;
