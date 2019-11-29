@@ -1,31 +1,36 @@
 ##########################################################################
-## QWS Dataset (2.0)							                                      ##
-## Developed by: Eyhab Al-Masri (ealmasri@uoguelph.ca) 			            ##
+## QWS Dataset (2.0)							##
+## Developed by: Eyhab Al-Masri (ealmasri@uoguelph.ca) 			##
 ## This dataset represents 2507 real Web services that exist on the Web	##
 ## This dataset has been widely adopted by the research community in    ##
 ## the area of Web Services. I thank all of those who have supported    ##
-## the adoption, usage, and maintanance of this dataset.                ##
+## the adoption, usage and maintanance of this dataset.                ##
 ## Please feel free to contact me if you have any questions.            ##
-## Last update: Nov, 2019   						                                ##
+## Last update: Nov, 2019   					        ##
 ##########################################################################
-## Please cite the following paper when using this dataset:		          ##
-## E. Al-Masri, Q. Mahmoud, "Investigating web services on the world  	##
+## QWS Dataset (2.0)							##
+## Developed by: Eyhab Al-Masri (ealmasri@uoguelph.ca) 			##
+## This dataset represents 2507 real Web services that exist on the Web	##
+## Last update: June, 5, 2008						##
+##########################################################################
+## Please cite the following paper when using this dataset:		##
+## E. Al-Masri, Q. Mahmoud, "Investigating web services on the world 	##
 #3 wide web," 17th international conference on World Wide Web (WWW '08)	##
-## ACM, pp. 795-804. DOI: https://doi.org/10.1145/1367497.1367605	      ##
-## More details on dataset: doi: 10.1109/ICCCN.2007.4317873		          ##
+## ACM, pp. 795-804. DOI: https://doi.org/10.1145/1367497.1367605	##
+## More details on dataset: doi: 10.1109/ICCCN.2007.4317873		##
 ##########################################################################
-## Format: QWS parameters are separated by commas (first nine)		      ##
-## Format: (1) Response Time						                                ##
-## Format: (2) Availability						                                  ##
-## Format: (3) Throughput						                                    ##
-## Format: (4) Successability						                                ##
-## Format: (5) Reliability						                                  ##
-## Format: (6) Compliance						                                    ##
-## Format: (7) Best Practices						                                ##
-## Format: (8) Latency							                                    ##
-## Format: (9) Documentation						                                ##
-## Format: (10) Service Name						                                ##
-## Format: (11) WSDL Address						                                ##
+## Format: QWS parameters are separated by commas (first nine)		##
+## Format: (1) Response Time						##
+## Format: (2) Availability						##
+## Format: (3) Throughput						##
+## Format: (4) Successability						##
+## Format: (5) Reliability						##
+## Format: (6) Compliance						##
+## Format: (7) Best Practices						##
+## Format: (8) Latency							##
+## Format: (9) Documentation						##
+## Format: (10) Service Name						##
+## Format: (11) WSDL Address						##
 ##########################################################################
 302.75,89,7.1,90,73,78,80,187.75,32,MAPPMatching,http://xml.assessment.com/service/MAPPMatching.asmx?wsdl
 482,85,16,95,73,100,84,1,2,Compound2,http://www.mssoapinterop.org/asmx/WSDL/compound2.wsdl
@@ -103,9 +108,7 @@
 115,83,22.3,84,83,89,91,4,5,EmptySA,http://www.mssoapinterop.org/asmx/WSDL/emptysa.wsdl
 42.5,72,13.1,72,73,78,84,3.5,8,XarayaSoap,http://xaraya.open-world.com.ve/modules/soapserver/xaraya.wsdl
 179,85,1.1,95,60,100,74,47,76,BusinessOrGovernmentalLookup,http://ws.strikeiron.com/RatchetSoft.StrikeIron/BusinessOrGovernmentalLookup?WSDL
-179.29,87,2.6,95,60,89,69,26,40,CurriculumOnlineProviderService,http://providers.curriculumonline.gov.uk/ResourceSubmissionWS/curriculumonlineProviderService.a
-
-smx?wsdl
+179.29,87,2.6,95,60,89,69,26,40,CurriculumOnlineProviderService,http://providers.curriculumonline.gov.uk/ResourceSubmissionWS/curriculumonlineProviderService.asmx?wsdl
 3610.2,96,1.4,99,67,100,77,6.4,97,USDAData,http://ws.strikeiron.com/USDAData?WSDL
 123,96,14.6,99,83,89,91,68.5,6,UniquesubsService,http://www.vbi.vt.edu/~pathport/services/wsdls/uniquesubs.wsdl
 198.5,72,15.1,72,83,89,91,6,4,SerClsPeticionSOAPTPVPCservice,http://sas-d.sermepa.es/TPV_PC/wsdl/SerClsEntradaTPVPCv3d0.wsdl
@@ -512,9 +515,7 @@ smx?wsdl
 330,83,15.6,84,67,78,72,3,8,GeoCodeSrvService,http://freemosp.51ditu.com/wsdl/GeoCodeSrv.wsdl
 193,88,1.6,96,73,100,84,8.6,37,patmatdbService,http://genome.dkfz-heidelberg.de/menu/hobit/embapps/wsdl/patmatdb.wsdl
 214.4,89,14.6,96,73,100,84,6.6,35,msbarService,http://genome.dkfz-heidelberg.de/menu/hobit/embapps/wsdl/msbar.wsdl
-125,86,9.4,86,73,78,84,3,7,geographyRequests,http://comcast.vehix.com/(A
-
-(rGItnpy1xgEkAAAAOGRmMTMxODItOWIwNi00ZjdkLTkwMjUtMzIyYjU2NmYzM2Iy0))/_webServices/geographyRequests.asmx?WSDL
+125,86,9.4,86,73,78,84,3,7,geographyRequests,http://comcast.vehix.com/(A(rGItnpy1xgEkAAAAOGRmMTMxODItOWIwNi00ZjdkLTkwMjUtMzIyYjU2NmYzM2Iy0))/_webServices/geographyRequests.asmx?WSDL
 329.8,51,6,51,73,89,75,30.6,6,Departements,http://tic01.tic.ec-lyon.fr/~muller/cours/soap/server/wsdl-server.php?wsdl
 3166,72,3.7,72,83,89,91,1.5,57,RecommendationService,http://developer.statsbiblioteket.dk/netbibservices/services/RecomLike?wsdl
 216.6,94,1.8,98,73,100,84,7.8,32,newcpgseekService,http://genome.dkfz-heidelberg.de/menu/hobit/embapps/wsdl/newcpgseek.wsdl
@@ -545,9 +546,7 @@ smx?wsdl
 292,100,9.3,100,73,100,80,111,7,MetarService,http://www.pathfinder-xml.com/development/WSDL/MetarService.wsdl
 729,94,15.2,98,73,100,80,480,9,MarketData,http://www.dfm.ae/marketwatch/ws/MarketData.asmx?WSDL
 122.93,93,16,98,60,100,74,12.5,67,SchemaWeb,http://www.schemaweb.info/webservices/soap/SchemaWebSoap.asmx?wsdl
-253,100,10.6,100,67,100,72,18,63,TerraService,http://logos.eecs.uic.edu/340Archive/340Fall04/assignments/codeSolutions/Mapsever/kradhakr1/CS340Assn4/Web
-
-%20References/com.terraserver-usa/TerraService.wsdl
+253,100,10.6,100,67,100,72,18,63,TerraService,http://logos.eecs.uic.edu/340Archive/340Fall04/assignments/codeSolutions/Mapsever/kradhakr1/CS340Assn4/Web%20References/com.terraserver-usa/TerraService.wsdl
 277.4,93,1,98,73,100,84,11.2,39,compseqService,http://genome.dkfz-heidelberg.de/menu/hobit/embapps/wsdl/compseq.wsdl
 81,70,8.5,70,73,89,84,38.75,11,MathTools,http://www.karlbrouillette.com/demo1/mathtools.asmx?wsdl
 379.78,85,2.3,85,53,89,66,106.04,10,AnalysisWSAppLabImplService,http://www.ebi.ac.uk/soaplab/emboss4/services/phylogeny_discrete_characters.fpenny?wsdl
@@ -652,9 +651,7 @@ smx?wsdl
 210,97,25.2,97,73,100,84,16,1,WhoIsService,http://www.esynaps.com/WebServices/WhoIsService.asmx?wsdl
 436.6,90,1.3,91,73,100,84,90.2,37,showdbService,http://genome.dkfz-heidelberg.de/menu/hobit/embapps/wsdl/showdb.wsdl
 730.2,86,3.4,95,73,89,84,47.8,37,InsertRelation,http://www.zbirka.com/Services/DOCTRACE_SERVICE/InsertRelation.asmx?wsdl
-166,86,25.7,95,73,89,62,100,89,NRA_x0020_ILA_x0020_News_x0020_and_x0020_Updates_x0020_Syndication,http://www.nraila.org/Services/HuntingAndConservation.asmx?
-
-WSDL
+166,86,25.7,95,73,89,62,100,89,NRA_x0020_ILA_x0020_News_x0020_and_x0020_Updates_x0020_Syndication,http://www.nraila.org/Services/HuntingAndConservation.asmx?WSDL
 1703,83,9,84,83,89,91,6,7,ElementRefinementsService,http://dcregistry.natlib.govt.nz/axis/services/refinementsSummary?wsdl
 161,72,14,72,83,89,91,5,11,HomeworkService,http://www.pri.univie.ac.at/~mangler/CEWebS/Homework/homework.wsdl
 172,89,29.5,96,89,78,93,2,8,VasService,http://vastool-be.m-otion.at/VasService20060313.wsdl
@@ -849,9 +846,7 @@ WSDL
 369.83,66,2.9,67,80,89,83,76.5,11,Service,http://macrowebservices.com/clients/sdg/ws/service.asmx?WSDL&v=14
 573.81,11,3.5,12,67,78,72,36.72,11,GForgeAPI,http://www.gforge.org/soap/index.php?wsdl
 218.75,68,2,68,60,89,69,80.75,2,tipService,http://www.flash-mx.com/ws/tipoftheday/tip.cfc?wsdl
-1558.07,97,2.6,98,67,89,58,13.14,93,ERSWebCensusMapService,http://maps.ers.usda.gov/Profiles/backup/Profiles/Web
-
-%20References/mapspreview/ERSWebCensusMapService.wsdl
+1558.07,97,2.6,98,67,89,58,13.14,93,ERSWebCensusMapService,http://maps.ers.usda.gov/Profiles/backup/Profiles/Web%20References/mapspreview/ERSWebCensusMapService.wsdl
 168.25,56,5.7,57,67,78,72,20.25,10,PersonService,http://dotnet.jku.at/buch/samples/7/encoding/PersonService.asmx?WSDL
 534.5,72,10.7,72,73,89,75,3.5,9,KeywordQueryService,http://www.glycosciences.de/services/KeywordService?wsdl
 77,50,9.2,51,78,89,89,3.2,66,MyWorld,http://esol.american.edu:8080/wsdl/MyWorld.wsdl
@@ -931,17 +926,13 @@ WSDL
 144.75,98,2.1,100,73,78,84,2.25,9,CalculationService,http://www.fitnesswizard.com/Services/CalculationService.asmx?WSDL
 872,83,15.4,84,78,89,89,14,66,Discordian,http://www.compkarori.com/wsdl/discordian.wsdl
 136.33,46,8.6,46,73,89,84,4.33,57,Euro42,http://www.ebob42.org/cgi-bin/eBob42.asmx?WSDL
-571,83,8.4,84,67,89,72,4,12,FSCWarrantyClaimManagement_WebServices_TranslationToolService,http://www.mmm-
-
-maintenance.com/test/TranslationToolRequest_V1_3_TEST_HTTP.wsdl
+571,83,8.4,84,67,89,72,4,12,FSCWarrantyClaimManagement_WebServices_TranslationToolService,http://www.mmm-maintenance.com/test/TranslationToolRequest_V1_3_TEST_HTTP.wsdl
 201.12,44,0.9,44,67,89,72,112.87,65,MapImage,http://arcweb.esri.com/services/v1/MapImage.wsdl
 462,99,12.7,100,73,78,80,11,90,NED,http://voservices.net/NED/ws_v1_0/NED.asmx?wsdl
 189,100,15.4,100,73,100,84,21.5,94,DevLeap_x0020_-_x0020_Codice_x0020_Fiscale,http://devlab.devleap.it/PaoloPi/ws01/CodiceFiscale.asmx?WSDL
 670,93,13.2,98,80,100,89,16,10,SerClsWSPasarelaPINPADService,http://sas-d.sermepa.es/TPV_PC/wsdl/SerClsWSPasarelaPINPAD_inte.wsdl
 1410,83,10.6,84,83,89,91,5,11,LanguagesService,http://dcregistry.natlib.govt.nz/axis/services/languagesSummary?wsdl
-175,86,9.4,86,73,78,84,3,8,geographyRequests,http://comcast.vehix.com/(A
-
-(1WARoJy1xgEkAAAAZjFkZWJkMGItNjViYi00MDY3LTlmNjctNWMwYjc1YWI3ZmFj0))/_webServices/geographyRequests.asmx?WSDL
+175,86,9.4,86,73,78,84,3,8,geographyRequests,http://comcast.vehix.com/(A(1WARoJy1xgEkAAAAZjFkZWJkMGItNjViYi00MDY3LTlmNjctNWMwYjc1YWI3ZmFj0))/_webServices/geographyRequests.asmx?WSDL
 620.5,96,8.7,99,73,100,80,398,10,MacamMailer,http://webservices.macam.ac.il/MacamMailer/MacamMailer.asmx?wsdl
 143.6,98,16.7,100,73,78,62,34.4,96,USHolidayService,http://www.27seconds.com/Holidays/US/USHolidayService.asmx?wsdl
 748,100,17.3,100,80,89,65,29,4,getOtherInformation,http://home.karneval.cz/0358632801/ext/soap/tests/bugs/bug30106.wsdl
@@ -1173,9 +1164,7 @@ maintenance.com/test/TranslationToolRequest_V1_3_TEST_HTTP.wsdl
 181.12,95,11.3,99,53,100,71,37.41,89,RealTimeStockQuotes,http://ws.strikeiron.com/RealTimeStockQuotes?WSDL
 191,84,5.4,84,53,89,66,97,2,cotsService,http://www.sussexcountyde.gov/webservice/cots.cfc?wsdl
 126.5,14,6.3,14,60,78,69,65.09,8,XataDispatchWebService,http://www.xatanet.net/XataNetWebService/xatadispatchwebservice.asmx?WSDL
-192.5,86,8.6,86,73,78,84,3.5,10,geographyRequests,http://comcast.vehix.com/(A
-
-(lgihopy1xgEkAAAANjhhZTk5M2YtOTdiZi00NWFmLWJhNzMtZTFhNTcxMmRiOWVk0))/_webservices/geographyRequests.asmx?WSDL
+192.5,86,8.6,86,73,78,84,3.5,10,geographyRequests,http://comcast.vehix.com/(A(lgihopy1xgEkAAAANjhhZTk5M2YtOTdiZi00NWFmLWJhNzMtZTFhNTcxMmRiOWVk0))/_webservices/geographyRequests.asmx?WSDL
 295.6,100,1.1,100,67,100,82,45.2,5,vectorstripService,http://www.ebi.ac.uk/soaplab/emboss4/services/edit.vectorstrip.derived?wsdl
 329.43,86,1.2,86,53,89,66,101.17,4,AnalysisWSAppLabImplService,http://www.ebi.ac.uk/soaplab/emboss4/services/nucleic_rna_folding.vrnafoldpf?wsdl
 133.21,55,8,56,60,67,79,10.42,88,ws,http://www.selfsurveys.com/ws.asmx?wsdl
@@ -1255,9 +1244,7 @@ maintenance.com/test/TranslationToolRequest_V1_3_TEST_HTTP.wsdl
 206.4,86,15.5,95,58,100,75,5.6,33,polydotService,http://genome.dkfz-heidelberg.de/menu/hobit/embapps/wsdl/polydot.wsdl
 65,83,26.4,84,78,89,89,4,5,SecureLogin,http://www.campfriendship.com/CampFriendship-Web/Global/SecureLogin.asmx?WSDL
 80.67,38,2.3,38,80,89,78,3.67,62,replicaCatalogService,http://lqcd.jlab.org/wsdl/replica-glue.wsdl
-872.12,89,5.6,96,73,78,80,5.74,87,GenreTermsAndSubjectHeadings,http://www.oclc.org/research/projects/termservices/WebServices/GenreTermsAndSubjectHeadings/Genr
-
-eTermsAndSubjectHeadings.asmx?wsdl
+872.12,89,5.6,96,73,78,80,5.74,87,GenreTermsAndSubjectHeadings,http://www.oclc.org/research/projects/termservices/WebServices/GenreTermsAndSubjectHeadings/GenreTermsAndSubjectHeadings.asmx?wsdl
 84,94,21.6,98,50,89,77,1,4,GtsInterfacesService,http://www.myyellow.com/dynamic/services/content/ecommerce/etools/webservices/gtsimplbol.wsdl
 289.6,94,1.1,98,58,100,75,6.8,36,sycoService,http://genome.dkfz-heidelberg.de/menu/hobit/embapps/wsdl/syco.wsdl
 1146,34,1.7,35,67,78,82,1054.64,12,InteropDef,http://www.soapclient.com/interop/sqldatainterop.wsdl
@@ -1585,9 +1572,7 @@ eTermsAndSubjectHeadings.asmx?wsdl
 330.5,65,7.8,66,73,67,84,13.33,3,w_invoicereceipt,http://www.invoice4u.co.il/Public/w_invoicereceipt.asmx?wsdl
 212.5,100,1.5,100,73,78,80,1,90,K4TAirSellWS,http://ws.keyfortravel.com/webservices/K4TAirSell.asmx?wsdl
 143,99,16.6,100,73,78,84,42,94,ICD9Drug,http://www.webservicex.com/icd9drug.asmx?WSDL
-121.91,91,13.6,97,67,100,77,0.98,62,HR-XML_x0020_Validation_x0020__x0028_2004-08_x0020_release_x0029_,http://testbed.hr-
-
-xml.org/validate200408withWebForms.asmx?WSDL
+121.91,91,13.6,97,67,100,77,0.98,62,HR-XML_x0020_Validation_x0020__x0028_2004-08_x0020_release_x0029_,http://testbed.hr-xml.org/validate200408withWebForms.asmx?WSDL
 246,86,8,86,73,78,80,74.5,91,Postcode_x0020_Finder,http://www.tarrantit.com/tarrantit/Pcode.asmx?wsdl
 126.4,89,18.9,96,73,78,84,1.2,36,UnitConversions,http://psg.synergex.com/WebServices/UnitConversions.asmx?wsdl
 254,84,1.9,85,73,89,75,7,3,WemCarts,http://www.alapage.com/webservices/putcartSoap.php?wsdl
@@ -1621,9 +1606,7 @@ xml.org/validate200408withWebForms.asmx?WSDL
 84.25,90,16.3,97,67,78,72,42,35,ADQLTranslator,http://openskyquery.net/ADQLTranslator/ADQLTrans.asmx?wsdl
 191,83,21,84,67,89,72,12,37,wsdl,http://sugartech.co.za/soap/wsdlserver.php?wsdl
 405.14,91,7.9,97,73,78,80,2.71,94,SearchEngine,http://webservice.est.co.jp/zipcode/SearchEngine.asmx?WSDL
-509.5,86,12.6,86,73,67,88,37,11,CustomersList,http://samples.gotdotnet.com/quickstart/winforms/Samples/Data/WebServiceBinding/CS/SimpleCustomersWebService.asmx
-
-?WSDL
+509.5,86,12.6,86,73,67,88,37,11,CustomersList,http://samples.gotdotnet.com/quickstart/winforms/Samples/Data/WebServiceBinding/CS/SimpleCustomersWebService.asmx?WSDL
 298.2,98,0.9,99,67,100,82,59.4,7,prettyseqService,http://www.ebi.ac.uk/soaplab/emboss4/services/display.prettyseq.derived?wsdl
 80.4,91,2.9,97,73,100,84,43.3,90,CasGroups,http://galex.stsci.edu/casjobs/CasGroups.asmx?WSDL
 221.8,99,15.6,100,58,100,75,5.4,40,cpgplotService,http://genome.dkfz-heidelberg.de/menu/hobit/embapps/wsdl/cpgplot.wsdl
@@ -1848,9 +1831,7 @@ xml.org/validate200408withWebForms.asmx?WSDL
 233,94,14.5,98,58,100,75,11.4,34,pepinfoService,http://genome.dkfz-heidelberg.de/menu/hobit/embapps/wsdl/pepinfo.wsdl
 158.67,93,11.7,98,73,100,84,0.67,61,TMorse,http://web221.area-18.server-home.net/Morse.asmx?WSDL
 234.8,95,1.3,98,67,100,82,33.8,10,patmatdbService,http://www.ebi.ac.uk/soaplab/emboss4/services/protein_motifs.patmatdb.derived?wsdl
-214.67,63,12.5,63,73,78,84,25.67,12,wsaTestService,http://fisheye5.cenqua.com/viewrep/~raw,r=1.3/jax-wsa-sources/jaxwsa-
-
-ri/test/src/w3c/s12/etc/wsaTestService.wsdl
+214.67,63,12.5,63,73,78,84,25.67,12,wsaTestService,http://fisheye5.cenqua.com/viewrep/~raw,r=1.3/jax-wsa-sources/jaxwsa-ri/test/src/w3c/s12/etc/wsaTestService.wsdl
 132,89,5,96,73,78,84,4,3,AccelerationUnit,http://www.webservicex.net/ConvertAcceleration.asmx?WSDL
 1456.67,90,4.1,96,73,78,62,19,93,CasService,http://voservices.net/CasService/ws_v1_0/CasService.asmx?wsdl
 411.4,93,10.8,98,58,100,75,9.4,34,pepinfoService,http://genome.dkfz-heidelberg.de/menu/hobit/embapps/wsdl/pepinfo.wsdl
@@ -1873,9 +1854,7 @@ ri/test/src/w3c/s12/etc/wsaTestService.wsdl
 148.5,98,11.4,99,73,89,62,1,5,GFCore,http://geoserver.teletouch.com/gfcorenet/gfcore.asmx?wsdl
 115,87,24.5,95,67,89,82,1,11,interopLabEchoHeader,http://mssoapinterop.org/stk/interopC.wsdl
 1301.33,98,3.5,98,83,89,91,154.5,4,PhylogeneticService,http://staff.vbi.vt.edu/pathport/services/wsdls/phylogenetic.wsdl
-386.5,93,11.3,98,73,89,62,69.5,91,The_x0020_Dolls_x0020_Gallery_x0020_Store_x0020__x0028_Web_x0020_Service_x0029_,http://www.aridolan.com/dollstore/InstantOrde
-
-r.asmx?wsdl
+386.5,93,11.3,98,73,89,62,69.5,91,The_x0020_Dolls_x0020_Gallery_x0020_Store_x0020__x0028_Web_x0020_Service_x0029_,http://www.aridolan.com/dollstore/InstantOrder.asmx?wsdl
 51.67,98,0.8,100,73,78,84,0.67,38,TaxData,http://www.strikeiron.com/WebServices/taxdata.asmx?WSDL
 222,97,14.7,99,73,100,84,8.6,41,trimestService,http://genome.dkfz-heidelberg.de/menu/hobit/embapps/wsdl/trimest.wsdl
 112.75,78,6,78,73,78,84,1.75,7,TempConvert,http://www.w3schools.com/webservices/tempconvert.asmx?WSDL
@@ -2560,3 +2539,4 @@ r.asmx?wsdl
 93.93,80,2.1,80,67,78,82,3.72,60,interop2,http://www.cs.fsu.edu/~engelen/interop2.wsdl
 106.75,86,1.3,95,80,78,87,1.25,96,SailboatCalcsWS,http://pooh.poly.asu.edu/cst556-sailboatcalcsws/SailboatCalcsWS.asmx?wsdl
 316.5,72,15.9,72,80,89,87,5.5,8,Slash/SOAP/Test,http://use.perl.org/soap/Test.wsdl
+
