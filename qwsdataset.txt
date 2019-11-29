@@ -1,6 +1,6 @@
 ##########################################################################
 ## QWS Dataset (2.0)							##
-## Developed by: Eyhab Al-Masri (ealmasri@uoguelph.ca) 			##
+## Developed by: Eyhab Al-Masri (qwsdata@yahoo.com) 			##
 ## This dataset represents 2507 real Web services that exist on the Web	##
 ## This dataset has been widely adopted by the research community in    ##
 ## the area of Web Services. I thank all of those who have supported    ##
@@ -9,7 +9,7 @@
 ## Last update: Nov, 2019   					        ##
 ##########################################################################
 ## QWS Dataset (2.0)							##
-## Developed by: Eyhab Al-Masri (ealmasri@uoguelph.ca) 			##
+## Developed by: Eyhab Al-Masri (qwsdata@yahoo.com) 			##
 ## This dataset represents 2507 real Web services that exist on the Web	##
 ## Last update: June, 5, 2008						##
 ##########################################################################
