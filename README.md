@@ -3,10 +3,7 @@
   <head>
   </head>
   <body>
-    <p>
-      <link rel="stylesheet" href="/qws/assets/css/style.css?v=dc8b074f13ba3a9794fdc2e8c85843fde03425fd">
-    </p>
-    <div class="container-lg px-3 my-5 markdown-body">
+    <div>
       <div>
         <table width="800" cellspacing="0" cellpadding="5" border="1" bgcolor="#FFFFFF">
           <tbody>
