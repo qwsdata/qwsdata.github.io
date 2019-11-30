@@ -7,6 +7,7 @@
 <table border="0" width="100%" cellspacing="0" cellpadding="5">
 <tbody>
 <tr>
+  
 <td colspan="2">
 <p><strong>&nbsp;The QWS Dataset&nbsp;</strong></p>
 </td>
@@ -30,7 +31,7 @@
 </td>
 </tr>
 <tr>
-<td colspan="2" bgcolor="#D6D6C0"><strong>&nbsp; About QWS Dataset&nbsp;</strong></td>
+<td id="#About" colspan="2" bgcolor="#D6D6C0"><strong>&nbsp; About QWS Dataset&nbsp;</strong></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -39,7 +40,7 @@
 </td>
 </tr>
 <tr>
-<td colspan="2" bgcolor="#D6D6C0">
+<td id="#Description" colspan="2" bgcolor="#D6D6C0">
 <div><strong>&nbsp;Description of QWS Dataset&nbsp;</strong></div>
 </td>
 </tr>
@@ -150,7 +151,7 @@
 </td>
 </tr>
 <tr>
-<td colspan="2" bgcolor="#D6D6C0"><strong>&nbsp;Definitions&nbsp;</strong></td>
+<td id="#Definitions" colspan="2" bgcolor="#D6D6C0"><strong>&nbsp;Definitions&nbsp;</strong></td>
 </tr>
 <tr>
 <td bgcolor="#E3E3D5" width="97%">
@@ -225,7 +226,7 @@
 </td>
 </tr>
 <tr>
-<td colspan="2" bgcolor="#C6C6AA"><strong>&nbsp;Download Instructions&nbsp;</strong></td>
+<td id="#Download" colspan="2" bgcolor="#C6C6AA"><strong>&nbsp;Download Instructions&nbsp;</strong></td>
 </tr>
 <tr>
 <td colspan="2">The QWS dataset is available free of charge for educational and non-commercial purposes. In exchange, we kindly request that you make available to us the results of running the QWS dataset. Please use the following references in citing the dataset:
@@ -256,7 +257,7 @@
 </td>
 </tr>
 <tr>
-<td colspan="2" bgcolor="#C6C6AA"><strong>&nbsp;Applications&nbsp;</strong></td>
+<td id="#Applications"  colspan="2" bgcolor="#C6C6AA"><strong>&nbsp;Applications&nbsp;</strong></td>
 </tr>
 <tr>
 <td colspan="2">
