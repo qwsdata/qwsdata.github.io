@@ -31,7 +31,7 @@
 </td>
 </tr>
 <tr>
-  <td colspan="2" bgcolor="#D6D6C0"><strong>&nbsp; <a href="@About">About QWS Dataset</a>&nbsp;</strong></td>
+  <td colspan="2" bgcolor="#D6D6C0"><strong>&nbsp; <a href="About">About QWS Dataset</a>&nbsp;</strong></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -40,8 +40,8 @@
 </td>
 </tr>
 <tr>
-<td id="#Description" colspan="2" bgcolor="#D6D6C0">
-<div><strong>&nbsp;Description of QWS Dataset&nbsp;</strong></div>
+<td colspan="2" bgcolor="#D6D6C0">
+  <div><strong>&nbsp;<a href="Description">Description of QWS Dataset&nbsp;</a></strong></div>
 </td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@
 </td>
 </tr>
 <tr>
-<td id="#Definitions" colspan="2" bgcolor="#D6D6C0"><strong>&nbsp;Definitions&nbsp;</strong></td>
+  <td colspan="2" bgcolor="#D6D6C0"><strong>&nbsp;<a href="Definitions">Definitions&nbsp;</a></strong></td>
 </tr>
 <tr>
 <td bgcolor="#E3E3D5" width="97%">
