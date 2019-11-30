@@ -18,12 +18,12 @@
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td><a href="#About_">About</a></td>
-<td><a href="#Description_">Description</a></td>
+<td><a href="#About">About</a></td>
+<td><a href="#Description">Description</a></td>
 <td><a href="#Definitions">Definitions</a></td>
-<td><a href="#Download_0">Download</a></td>
-<td><a href="#Applications_">Applications</a></td>
-<td><a href="#Contact_Us">Contact</a></td>
+<td><a href="#Download">Download</a></td>
+<td><a href="#Applications">Applications</a></td>
+<td><a href="#Contact">Contact</a></td>
 </tr>
 </tbody>
 </table>
@@ -31,7 +31,7 @@
 </td>
 </tr>
 <tr>
-<td id="#About" colspan="2" bgcolor="#D6D6C0"><strong>&nbsp; About QWS Dataset&nbsp;</strong></td>
+  <td colspan="2" bgcolor="#D6D6C0"><strong>&nbsp; <a href="@About">About QWS Dataset</a>&nbsp;</strong></td>
 </tr>
 <tr>
 <td colspan="2">
