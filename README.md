@@ -7,7 +7,6 @@
 <table border="0" width="100%" cellspacing="0" cellpadding="5">
 <tbody>
 <tr>
-  
 <td colspan="2">
 <p><strong>&nbsp;The QWS Dataset&nbsp;</strong></p>
 </td>
@@ -18,49 +17,30 @@
 <table border="0" cellspacing="0" cellpadding="0">
 <tbody>
 <tr>
-<td><a href="#About">About</a></td>
-<td><a href="#Description">Description</a></td>
+<td><a href="#About_">About</a></td>
+<td><a href="#Description_">Description</a></td>
 <td><a href="#Definitions">Definitions</a></td>
-<td><a href="#Download">Download</a></td>
-<td><a href="#Applications">Applications</a></td>
-<td><a href="#Contact">Contact</a></td>
+<td><a href="#Download_0">Download</a></td>
+<td><a href="#Applications_">Applications</a></td>
+<td><a href="#Contact_Us">Contact</a></td>
 </tr>
 </tbody>
 </table>
 </center></div>
 </td>
 </tr>
-<tr id="About">
-  <td colspan="2" bgcolor="#D6D6C0"><strong>&nbsp;About QWS Dataset&nbsp;</strong></td>
+<tr>
+<td colspan="2" bgcolor="#D6D6C0"><strong>&nbsp; About QWS Dataset&nbsp;</strong></td>
 </tr>
 <tr>
 <td colspan="2">
-          <p class="lead" style="text-align:justify">Thank you for your interest in the QWS Dataset,
-                          the first web services' dataset that measured real web services' Quality of Service (QoS)
-                          introduced in 2007 and is part of is part of Eyhab Al-Masri's PhD thesis work.
-                          The QWS Dataset has been widely accepted across the research community and downloaded over
-                          <strong style="color: #ded9bd">9,000</strong> times since its first introduction in 2007.
-                          The main goal of this dataset is to offer a basis for web service researchers.
-                          The web services were collected using the <strong><a target="_blank"  style="color: #ded9bd" href="https://dl.acm.org/citation.cfm?id=1367605">
-                          Web Service Crawler Engine (WSCE)</a></strong> and the majority of these services were
-                          obtained from public sources on the web including Universal Description, Discovery, and
-                          Integration (UDDI) registries, search engines and service portals.</p>&nbsp;
-          <p class="lead" style="text-align:justify">The QWS Dataset <strong style="color: #9fffe2">ver 2.0</strong> includes a set of <strong style="color: #ded9bd">2,507</strong> web services and their <strong style="color: #ded9bd"><a target="_blank"  style="color: #ded9bd" href="https://ieeexplore.ieee.org/document/4317873">Quality of Web Service
-                          (QWS)</a></strong> measurements that were conducted during the year of 2008 using our <strong><a target="_blank"  style="color: #ded9bd" href="https://dl.acm.org/citation.cfm?id=1853973">Web Service
-                          Broker (WSB)</a></strong> framework. Each row in this dataset represents a Web service and its
-                          corresponding nine QWS measurements (separated by commas). The first nine elements are
-                          QWS metrics that were measured using multiple Web service benchmark tools over a six-day
-                          period. The QWS values represent averages of the measurements collected during that period.
-                          The last two parameters represent the service name and reference to the WSDL document.</p>&nbsp;
-         <p class="lead" style="text-align:justify">The QWS Dataset <strong style="color: #9fffe2">ver 1.0</strong> contains measurements of nine Quality of Service (QoS) 
-                          measurements for 365 web services and includes two additional attributes: (a) a rank of 
-                          web services based on our Web Service Relevancy Function (WsRF) and (b) a class which classifies 
-                          web services based on their overall performance.</p>&nbsp;
+<p>The main goal of this dataset is to offer a basis for Web Service researchers. The web services were collected using the <a href="http://www2007.org/poster968.php">Web Service Crawler Engine (WSCE)</a> and the majority of these services were obtained from public sources on the web including Universal Description, Discovery, and Integration (UDDI) registries, search engines and service portals. </p>
+<p>The QWS Dataset includes a set of 2,507 web services and their <a href="#Quality_of_Web_Service_%28QWS%29_">Quality of Web Service (QWS)</a> measurements that were conducted during the year of 2008 using our web Service Broker (WSB) framework. Each row in this dataset represents a Web service and its corresponding nine QWS measurements (separated by commas). The first nine elements are QWS metrics that were measured using multiple Web service benchmark tools over a six-day period. The QWS values represent averages of the measurements collected during that period. The last two parameters represent the service name and reference to the WSDL document.</p>
 </td>
 </tr>
-<tr  id="Description">
+<tr>
 <td colspan="2" bgcolor="#D6D6C0">
-  <div><strong>&nbsp;Description of QWS Dataset&nbsp;</strong></div>
+<div><strong>&nbsp;Description of QWS Dataset&nbsp;</strong></div>
 </td>
 </tr>
 <tr>
@@ -169,8 +149,8 @@
 <p>In order, the number associated with each property corresponds to a column within the QWS dataset.</p>
 </td>
 </tr>
-<tr id="Definitions">
-  <td colspan="2" bgcolor="#D6D6C0"><strong>&nbsp;Definitions&nbsp;</strong></td>
+<tr>
+<td colspan="2" bgcolor="#D6D6C0"><strong>&nbsp;Definitions&nbsp;</strong></td>
 </tr>
 <tr>
 <td bgcolor="#E3E3D5" width="97%">
@@ -244,8 +224,8 @@
 </table>
 </td>
 </tr>
-<tr id="Download">
-<td  colspan="2" bgcolor="#C6C6AA"><strong>&nbsp;Download Instructions&nbsp;</strong></td>
+<tr>
+<td colspan="2" bgcolor="#C6C6AA"><strong>&nbsp;Download Instructions&nbsp;</strong></td>
 </tr>
 <tr>
 <td colspan="2">The QWS dataset is available free of charge for educational and non-commercial purposes. In exchange, we kindly request that you make available to us the results of running the QWS dataset. Please use the following references in citing the dataset:
@@ -261,13 +241,13 @@
 <tr>
 <td>
 <div>&nbsp;</div>
-<div><a href="https://qwsdata.github.io/qws/qws2.html"><strong>QWS Dataset ver 2.0 containing 2507 web services</strong></a></div>
+<div><a href="https://qwsdata.github.io/qws2.html"><strong>QWS Dataset ver 2.0 containing 2507 web services</strong></a></div>
 </td>
 </tr>
 <tr>
 <td>
 <div>&nbsp;</div>
-<div><a href="https://qwsdata.github.io/qws/qws1.html">QWS Dataset ver 1.0 containing 365 web services</a></div>
+<div><a href="https://qwsdata.github.io/qws1.html">QWS Dataset ver 1.0 containing 365 web services</a></div>
 </td>
 </tr>
 </tbody>
@@ -275,8 +255,8 @@
 <p>&nbsp;</p>
 </td>
 </tr>
-<tr  id="Applications">
-<td  colspan="2" bgcolor="#C6C6AA"><strong>&nbsp;Applications&nbsp;</strong></td>
+<tr>
+<td colspan="2" bgcolor="#C6C6AA"><strong>&nbsp;Applications&nbsp;</strong></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -297,8 +277,8 @@
 </ul>
 </td>
 </tr>
-<tr id="Contact">
-<td colspan="2" bgcolor="#C6C6AA"><strong>&nbsp;Contact&nbsp;</strong></td>
+<tr>
+<td colspan="2" bgcolor="#C6C6AA"><strong>&nbsp;Contact Us&nbsp;</strong></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -308,7 +288,7 @@
 <div>Please send your comments by email: Eyhab Al-Masri (qwsdata[AT]yahoo.com)</div>
 <p>&nbsp;</p>
 <p>&nbsp;Copyright (c) 2007-present QWS Dataset, University of Guelph&nbsp;</p>
-<p>&nbsp;<a href="https://qwsdata.github.io/qws/">https://qwsdata.github.io</a></p>
+<p>&nbsp;<a href="https://qwsdata.github.io/">https://qwsdata.github.io/</a></p>
 <p>&nbsp;</p>
 <div><em>Last modified November 2019<br /></em></div>
 <div><em>&nbsp;</em></div>
