@@ -35,8 +35,27 @@
 </tr>
 <tr>
 <td colspan="2">
-<p>The main goal of this dataset is to offer a basis for Web Service researchers. The web services were collected using the <a href="http://www2007.org/poster968.php">Web Service Crawler Engine (WSCE)</a> and the majority of these services were obtained from public sources on the web including Universal Description, Discovery, and Integration (UDDI) registries, search engines and service portals. </p>
-<p>The QWS Dataset includes a set of 2,507 web services and their <a href="#Quality_of_Web_Service_%28QWS%29_">Quality of Web Service (QWS)</a> measurements that were conducted during the year of 2008 using our web Service Broker (WSB) framework. Each row in this dataset represents a Web service and its corresponding nine QWS measurements (separated by commas). The first nine elements are QWS metrics that were measured using multiple Web service benchmark tools over a six-day period. The QWS values represent averages of the measurements collected during that period. The last two parameters represent the service name and reference to the WSDL document.</p>
+          <p class="lead" style="text-align:justify">Thank you for your interest in the QWS Dataset,
+                          the first web services' dataset that measured real web services' Quality of Service (QoS)
+                          introduced in 2007 and is part of is part of Eyhab Al-Masri's PhD thesis work.
+                          The QWS Dataset has been widely accepted across the research community and downloaded over
+                          <strong style="color: #ded9bd">9,000</strong> times since its first introduction in 2007.
+                          The main goal of this dataset is to offer a basis for web service researchers.
+                          The web services were collected using the <strong><a target="_blank"  style="color: #ded9bd" href="https://dl.acm.org/citation.cfm?id=1367605">
+                          Web Service Crawler Engine (WSCE)</a></strong> and the majority of these services were
+                          obtained from public sources on the web including Universal Description, Discovery, and
+                          Integration (UDDI) registries, search engines and service portals.</p>&nbsp;
+          <p class="lead" style="text-align:justify">The QWS Dataset <strong style="color: #9fffe2">ver 2.0</strong> includes a set of <strong style="color: #ded9bd">2,507</strong> web services and their <strong style="color: #ded9bd"><a target="_blank"  style="color: #ded9bd" href="https://ieeexplore.ieee.org/document/4317873">Quality of Web Service
+                          (QWS)</a></strong> measurements that were conducted during the year of 2008 using our <strong><a target="_blank"  style="color: #ded9bd" href="https://dl.acm.org/citation.cfm?id=1853973">Web Service
+                          Broker (WSB)</a></strong> framework. Each row in this dataset represents a Web service and its
+                          corresponding nine QWS measurements (separated by commas). The first nine elements are
+                          QWS metrics that were measured using multiple Web service benchmark tools over a six-day
+                          period. The QWS values represent averages of the measurements collected during that period.
+                          The last two parameters represent the service name and reference to the WSDL document.</p>&nbsp;
+         <p class="lead" style="text-align:justify">The QWS Dataset <strong style="color: #9fffe2">ver 1.0</strong> contains measurements of nine Quality of Service (QoS) 
+                          measurements for 365 web services and includes two additional attributes: (a) a rank of 
+                          web services based on our Web Service Relevancy Function (WsRF) and (b) a class which classifies 
+                          web services based on their overall performance.</p>&nbsp;
 </td>
 </tr>
 <tr  id="Description">
