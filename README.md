@@ -30,8 +30,8 @@
 </center></div>
 </td>
 </tr>
-<tr>
-  <td colspan="2" bgcolor="#D6D6C0"><strong>&nbsp; <a href="About">About QWS Dataset</a>&nbsp;</strong></td>
+<tr id="About">
+  <td colspan="2" bgcolor="#D6D6C0"><strong>&nbsp;About QWS Dataset&nbsp;</strong></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -39,9 +39,9 @@
 <p>The QWS Dataset includes a set of 2,507 web services and their <a href="#Quality_of_Web_Service_%28QWS%29_">Quality of Web Service (QWS)</a> measurements that were conducted during the year of 2008 using our web Service Broker (WSB) framework. Each row in this dataset represents a Web service and its corresponding nine QWS measurements (separated by commas). The first nine elements are QWS metrics that were measured using multiple Web service benchmark tools over a six-day period. The QWS values represent averages of the measurements collected during that period. The last two parameters represent the service name and reference to the WSDL document.</p>
 </td>
 </tr>
-<tr>
+<tr  id="Description">
 <td colspan="2" bgcolor="#D6D6C0">
-  <div><strong>&nbsp;<a href="Description">Description of QWS Dataset&nbsp;</a></strong></div>
+  <div><strong>&nbsp;Description of QWS Dataset&nbsp;</strong></div>
 </td>
 </tr>
 <tr>
