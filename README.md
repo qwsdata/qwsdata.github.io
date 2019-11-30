@@ -150,8 +150,8 @@
 <p>In order, the number associated with each property corresponds to a column within the QWS dataset.</p>
 </td>
 </tr>
-<tr>
-  <td colspan="2" bgcolor="#D6D6C0"><strong>&nbsp;<a href="Definitions">Definitions&nbsp;</a></strong></td>
+<tr id="Definitions">
+  <td colspan="2" bgcolor="#D6D6C0"><strong>&nbsp;Definitions&nbsp;</strong></td>
 </tr>
 <tr>
 <td bgcolor="#E3E3D5" width="97%">
@@ -225,8 +225,8 @@
 </table>
 </td>
 </tr>
-<tr>
-<td id="#Download" colspan="2" bgcolor="#C6C6AA"><strong>&nbsp;Download Instructions&nbsp;</strong></td>
+<tr id="Download">
+<td  colspan="2" bgcolor="#C6C6AA"><strong>&nbsp;Download Instructions&nbsp;</strong></td>
 </tr>
 <tr>
 <td colspan="2">The QWS dataset is available free of charge for educational and non-commercial purposes. In exchange, we kindly request that you make available to us the results of running the QWS dataset. Please use the following references in citing the dataset:
@@ -256,8 +256,8 @@
 <p>&nbsp;</p>
 </td>
 </tr>
-<tr>
-<td id="#Applications"  colspan="2" bgcolor="#C6C6AA"><strong>&nbsp;Applications&nbsp;</strong></td>
+<tr  id="Applications">
+<td  colspan="2" bgcolor="#C6C6AA"><strong>&nbsp;Applications&nbsp;</strong></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -278,8 +278,8 @@
 </ul>
 </td>
 </tr>
-<tr>
-<td colspan="2" bgcolor="#C6C6AA"><strong>&nbsp;Contact Us&nbsp;</strong></td>
+<tr id="Contact">
+<td colspan="2" bgcolor="#C6C6AA"><strong>&nbsp;Contact&nbsp;</strong></td>
 </tr>
 <tr>
 <td colspan="2">
@@ -289,7 +289,7 @@
 <div>Please send your comments by email: Eyhab Al-Masri (qwsdata[AT]yahoo.com)</div>
 <p>&nbsp;</p>
 <p>&nbsp;Copyright (c) 2007-present QWS Dataset, University of Guelph&nbsp;</p>
-<p>&nbsp;<a href="https://qwsdata.github.io/qws/">https://qwsdata.github.io/qws/</a></p>
+<p>&nbsp;<a href="https://qwsdata.github.io/qws/">https://qwsdata.github.io</a></p>
 <p>&nbsp;</p>
 <div><em>Last modified November 2019<br /></em></div>
 <div><em>&nbsp;</em></div>
